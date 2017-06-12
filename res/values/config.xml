@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="errorsAllowed">5</integer>
+    <integer name="errorNumRotations">2</integer>
+    <integer name="errorDuration">500</integer>
+    <integer name="hintsAllowed">5</integer>
+    <integer name="levelDuration">60</integer>
+    <integer name="hitCircle">50</integer>
+    <integer name="scoreIncrement">100</integer>
+    <string name="imageLocation">xml/differences.xml</string>
+</resources>

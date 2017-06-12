@@ -1,0 +1,93 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/custom_button"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical|center_horizontal"
+     >
+
+    <LinearLayout
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+         >
+        
+        <ImageView 
+            android:id="@+id/oneLev0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            />
+        
+        <ImageView 
+            android:id="@+id/twoLev0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            />
+        <ImageView 
+            android:id="@+id/threeLev0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            />
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tableRow2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+         >
+        
+         <ImageView 
+            android:id="@+id/fourLev0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            />
+        
+        <ImageView 
+            android:id="@+id/fiveLev0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            />
+
+                <ImageView 
+            android:id="@+id/nineLev0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            />
+        
+        
+    </LinearLayout>
+
+    
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+         >
+        
+                <ImageView 
+                    android:id="@+id/startLev0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_gravity="center_horizontal"
+            
+            />
+        
+        
+        
+    </LinearLayout>
+    
+    
+
+</LinearLayout>
